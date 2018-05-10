@@ -9,11 +9,14 @@
     "name": "uuid",
     "description": "Generate uuid"
   },
-  "repository": "https://github.com/OleJack/insomnia-plugin-uuid",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OleJack/insomnia-plugin-uuid.git"
+  },
   "dependencies": {
     "uuid": "3.2.1"
   },
-  "devDependencies": [],
+  "devDependencies": {},
   "keywords": [
     "insomnia",
     "plugin",
@@ -21,5 +24,12 @@
     "uid",
     "uuid",
     "generator"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/OleJack/insomnia-plugin-uuid/issues"
+  },
+  "homepage": "https://github.com/OleJack/insomnia-plugin-uuid#readme",
+  "scripts": {
+    "test": "test"
+  }
 }

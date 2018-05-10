@@ -1,0 +1,25 @@
+{
+  "name": "insomnia-plugin-uuid",
+  "description": "Generate uuid inside the Insomnia REST client",
+  "version": "0.0.1",
+  "main": "uuid.js",
+  "license": "MIT",
+  "author": "Oleg Torshin",
+  "insomnia": {
+    "name": "uuid",
+    "description": "Generate uuid"
+  },
+  "repository": "https://github.com/OleJack/insomnia-plugin-uuid",
+  "dependencies": {
+    "uuid": "3.2.1"
+  },
+  "devDependencies": [],
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "plugins",
+    "uid",
+    "uuid",
+    "generator"
+  ]
+}

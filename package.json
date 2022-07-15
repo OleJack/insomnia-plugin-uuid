@@ -14,7 +14,7 @@
     "url": "git+https://github.com/OleJack/insomnia-plugin-uuid.git"
   },
   "dependencies": {
-    "uuid": "3.2.1"
+    "uuid": "8.3.2"
   },
   "devDependencies": {},
   "keywords": [
